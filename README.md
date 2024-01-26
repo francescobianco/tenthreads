@@ -32,7 +32,7 @@ Happy coding! 🚀👩‍💻👨‍💻
 
 ---
 
-# 10 Featured Threads
+# 10 Featured Threads 🧵
 
 1. **[Clean Code vs Performance](https://news.ycombinator.com/item?id=35105528)** -
    Brief preview or description of the thread content.
@@ -68,7 +68,7 @@ Happy coding! 🚀👩‍💻👨‍💻
 
 # License 📜
 
-🚀 **tenthreads is released under the MIT License.**
+🚀 **tenthreads** is released under the MIT License.
 
 🤖 **MIT License**
 
@@ -76,6 +76,6 @@ Happy coding! 🚀👩‍💻👨‍💻
 
 🤔 **License Suggestions**
 
-🤷‍♂️ Not sure if the MIT License is the right fit for 10Threads? We're open to suggestions! If you think there's a more appropriate license for this project, create an [issue](https://github.com/francescobianco/tenthreads/issues) and let us know. We love your input! 🚀
+🤷‍♂️ Not sure if the MIT License is the right fit for tenthreads? We're open to suggestions! If you think there's a more appropriate license for this project, create an [issue](https://github.com/francescobianco/tenthreads/issues) and let us know. We love your input! 🚀
 
 
