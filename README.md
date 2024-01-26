@@ -1,12 +1,14 @@
 # Welcome to tenthreads 🚀
 
+> Written with ten letters
+
 ## About
 
-**tenthreads** is a constantly updated collection of handpicked discussions with a special relevance to the world of development and software engineering. 🌐
+🧵 **tenthreads** is a constantly updated collection of handpicked discussions with a special relevance to the world of development and software engineering. 🌐
 
 ## What is tenthreads?
 
-🧵 **tenthreads** is more than just a repository; it's a curated tapestry of insightful threads, carefully woven together to bring you the best discussions in the tech universe. Dive into a realm where ideas collide, and knowledge blossoms!
+🧐 **tenthreads** is more than just a repository; it's a curated tapestry of insightful threads, carefully woven together to bring you the best discussions in the tech universe. Dive into a realm where ideas collide, and knowledge blossoms!
 
 ## Contributing
 
@@ -63,7 +65,6 @@ Happy coding! 🚀👩‍💻👨‍💻
     Contribute your thoughts to this evolving conversation about...
 
 ---
-
 
 # License 📜
 
