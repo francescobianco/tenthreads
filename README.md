@@ -20,7 +20,7 @@
 
 ### A Brief Geeky History
 
-In the early days of the internet, forums were the watering holes for developers. Threads emerged as a way for the tech community to exchange ideas and solve problems collectively. Fast forward to today, and threads continue to be the heartbeat of our online discourse.
+🕰️ In the early days of the internet, forums were the watering holes for developers. Threads emerged as a way for the tech community to exchange ideas and solve problems collectively. Fast forward to today, and threads continue to be the heartbeat of our online discourse.
 
 ## The Power of Clashing Ideas
 
