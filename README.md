@@ -34,8 +34,8 @@ Happy coding! 🚀👩‍💻👨‍💻
 
 # 10 Featured Threads
 
-1. **[Clean Code vs Performance](https://news.ycombinator.com/item?id=35105528)**
-   Brief preview or description of the thread content.
+1. **[Clean Code vs Performance](https://news.ycombinator.com/item?id=35105528)** 
+   - Brief preview or description of the thread content.
 
 2. **[Thread Title 2](link-to-thread-2)**
    Another intriguing discussion that delves into...
