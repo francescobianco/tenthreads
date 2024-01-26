@@ -1,6 +1,6 @@
 # Welcome to tenthreads 🚀
 
-> Written with ten letters
+> Written with ten letters (like tenletters)
 
 ## About
 
