@@ -26,7 +26,7 @@
 
 🕰️ In the early days of the internet, forums were the watering holes for developers. Threads emerged as a way for the tech community to exchange ideas and solve problems collectively. Fast forward to today, and threads continue to be the heartbeat of our online discourse.
 
-## The Power of Clashing Ideas
+### The Power of Clashing Ideas
 
 🤯 True growth happens when ideas clash! Reading posts from various authors is crucial. It's the collision of diverse perspectives that births pure knowledge—stripped of biases and preconceptions.
 
