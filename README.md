@@ -70,7 +70,7 @@ Happy coding! 🚀👩‍💻👨‍💻
 
 ---
 
-# License 📜
+## License 📜
 
 🚀 **tenthreads** is released under the MIT License.
 
