@@ -6,7 +6,11 @@
 
 🧵 **tenthreads** is a constantly updated collection of handpicked discussions with a special relevance to the world of development and software engineering. 🌐
 
-## What is tenthreads?
+## What is?
+
+🔥 In this section, we delve into the essential threads that every developer MUST read. These threads are meticulously chosen based on stringent criteria outlined in software engineering standards.
+
+## Why tenthreads?
 
 🧐 **tenthreads** is more than just a repository; it's a curated tapestry of insightful threads, carefully woven together to bring you the best discussions in the tech universe. Dive into a realm where ideas collide, and knowledge blossoms!
 
