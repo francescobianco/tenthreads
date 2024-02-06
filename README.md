@@ -6,15 +6,15 @@
 
 🧵 **tenthreads** is a constantly updated collection of handpicked discussions with a special relevance to the world of development and software engineering. 🌐
 
-## What is?
+### What is?
 
 🔥 In this section, we delve into the essential threads that every developer MUST read. These threads are meticulously chosen based on stringent criteria outlined in software engineering standards.
 
-## Why tenthreads?
+### Why tenthreads?
 
 🧐 **tenthreads** is more than just a repository; it's a curated tapestry of insightful threads, carefully woven together to bring you the best discussions in the tech universe. Dive into a realm where ideas collide, and knowledge blossoms!
 
-## Contributing
+### Contributing
 
 🚀 We encourage you to suggest interesting threads! Whether you've stumbled upon a mind-blowing discussion or you're the creator of an epic thread, share it with us through [issues](https://github.com/francescobianco/tenthreads/issues) or [pull requests](https://github.com/francescobianco/tenthreads/pulls).
 
